@@ -1,1 +1,1 @@
-Visit my website: <https://github.com/LadaOndris/ladaondris.github.io>
+Visit my website: <https://ladaondris.github.io>
